@@ -1,0 +1,32 @@
+{
+  "name": "@corvid/scrollable",
+  "version": "0.0.1",
+  "description": "Scrollable container that allows you to smooth scroll to children",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexFrazer/scrollable.git"
+  },
+  "author": {
+    "name": "Alex Frazer",
+    "email": "alexadfrazer@gmail.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexFrazer/scrollable/issues"
+  },
+  "homepage": "https://github.com/AlexFrazer/scrollable#readme",
+  "dependencies": {
+    "prop-types": "^15.6.0",
+    "react": "^16.2.0"
+  },
+  "devDependencies": {
+    "@types/prop-types": "^15.5.2",
+    "@types/react": "^16.0.34",
+    "typescript": "^2.6.2"
+  }
+}
